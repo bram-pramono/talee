@@ -19,7 +19,11 @@ As for empathy, it means that during understanding process of texts, there shoul
 - All texts that human learned are checked and verified with other humans. Every texts and the relations between texts are tested and verified before they become the truth.
 
 ### Grouping of words
-- TODO: write about though model & determining entities in sentences.
+- Once texts and relations between them are verified, the next step is to group the texts. Every grouping of texts are a result of probabilistic calculation.
+- The meaning of a word in texts are determined by the surrounding words. The meaning also occurs once some contexts have been created. Without the contexts, the word is merely an indication of meaning probabilities.
+- To build contexts humans use temporary models in their mind that keep changing until they are verified in conversations.
+- Every word in texts will eventually be categorized. To be able to apply the categories, Talee needs to be "taught" what are the words categories in different sentences and conversations.
+- In Talee temporary models are called thought models. And to simulate conversations, Talee uses sessions. In every session, there are sentences which will be called inputs.
 
 ## Approach
 - TODO: Write about creating learning processes
