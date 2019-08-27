@@ -26,4 +26,15 @@ As for empathy, it means that during understanding process of texts, there shoul
 - In Talee temporary models are called thought models. And to simulate conversations, Talee uses sessions. In every session, there are sentences which will be called inputs.
 
 ## Approach
-- TODO: Write about creating learning processes
+As humans, there are multiple simultaneous sensors registrations in every event that happen. Since Talee is a text automated learning, it has only a single registration, which is the texts. The relations of texts to the virtual body parts will need to be created partly manually. Hopefully after an advance Talee bot has been created, it can learn more words that are connected to different body parts by itself.
+
+Before relations between texts and body parts can be made, Talee needs to have enough texts understandings. These texts understanding will be extracted through a simulated learning process.
+
+### Simulating learning process
+- At the starting point of the learning process for Talee, Talee needs to process simple inputs.
+- While Talee does not have so many words understanding(probabilistic calculations), it needs to start registering different words and the relations between them.
+- Every new word/term in inputs will be registered.
+- Every word/term that keeps reoccurring in different sessions will become familiar words/terms.
+- Once a word/term becomes familiar, it will need to be verified whether the word/term and the surroundings are correct.
+- After the verification step, these words/terms will be a believe/rule. In any case that the surroundings of these words/terms mismatch, it will create bias possibilities.
+- Bias possibilities need to be clarified.  
