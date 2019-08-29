@@ -1,7 +1,7 @@
 # Talee
 Text Automated Learning by Experience &amp; Empathy
 
-## Introduction
+## Motivation
 Automated text learning we are doing with current NLP techniques are learning based on text occurrence statistics. This way to analyze text using current NLP techniques a lot of data is needed. This does not actually reflect how humans learn languages. Humans learn languages based on small sets of repeating texts that are then processed to create meaning. The learning processes of humans start by associating words with sensors in their body parts.
 
 The purpose of Talee is to learn languages using the approach that humans have. This means that Talee will need a virtual body with virtual sensors on different body parts, that will be used to associate applicable words with. 
@@ -38,3 +38,18 @@ Before relations between texts and body parts can be made, Talee needs to have e
 - Once a word/term becomes familiar, it will need to be verified whether the word/term and the surroundings are correct.
 - After the verification step, these words/terms will be a believe/rule. In any case that the surroundings of these words/terms mismatch, it will create bias possibilities.
 - Bias possibilities need to be clarified.  
+
+## Goals
+Talee should be able to :
+- identify common words/terms in a language.
+- identify domain specific words/terms in a language and manually taught domains. (Or maybe using text clustering to determine/discover domains)
+- group words in sentences.(Identify entity, verbs, adjectives, place, time, etc)
+- relate words with body parts
+- create thought models during a conversation/session.
+- build meaning model by context. Build contexts by words used during a session.
+- abstract conversations/sessions.
+
+Abilities that Talee might need to help discover meaning are:
+- Pattern recognition. How sentences form, how questions form, What is quote, etc.
+- Similar word discovery. Some words are only syntactically different, but means the same. This is similar to lemmatization or stemming, but through own mapping of words/terms with probabilities.
+ 
