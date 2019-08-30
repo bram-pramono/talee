@@ -50,6 +50,6 @@ Talee should be able to :
 - abstract conversations/sessions.
 
 Abilities that Talee might need to help discover meaning are:
-- Pattern recognition. How sentences form, how questions form, What is quote, etc.
-- Similar word discovery. Some words are only syntactically different, but means the same. This is similar to lemmatization or stemming, but through own mapping of words/terms with probabilities.
+- Pattern recognition. How sentences form, how questions form, What is quote, etc. Examples: Einstein said that "Time is relative", What do you mean shit happens?, He just went to shop, etc.
+- Similar word discovery. Some words are only syntactically different, but means the same. This is similar to lemmatization or stemming, but Talee will solve this through own mapping of words/terms with probabilistic calculation.
  
