@@ -14,9 +14,20 @@ As for empathy, it means that during understanding process of texts, there shoul
 ### Basics of words creations
 - Texts are representations of our perceptions based on what the sensors in our body received of the things happening to our body.
 - Every sensors in our body register different things at different time. These registrations of different sensors will eventually build events. Events will eventually become words or part of words that we use in our daily conversations.
-- Along with the sensors that our body register, there are other things around those sensors that need to be taken into account on every event registrations, which are changes of time and space.
-- The choices of words humans have at the beginning of our life are limited based on what their parents(or guardians) use. These choices of words eventually grow once they learn new things or meet new people. The new texts learned are done by using words that are learned before.
+- Along with the sensors that our body register, there are other things around those sensors that need to be taken into account on every event registrations, which are the changes within a certain time and space.
+- The choices of words humans have at the beginning of their life are limited based on what their parents(or guardians) use. These choices of words eventually grow once they learn new things or meet new people. The new texts they learned are done by using words that are known and learned before.
 - All texts that human learned are checked and verified with other humans. Every texts and the relations between texts are tested and verified before they become the truth.
+
+### Meaning in words
+- All words that are used in sentences bring meanings behind the words. These meanings are depended on the perspective of the receiver and the sender at the time the words are passed on and also the meanings are often abstract.
+- To be able to decipher these meanings and reduce the abstract complexity level, some building blocks will be used: 
+  - Event parts in sentences. TODO: explain
+  - Event part subgroups. TODO: explain
+  - Virtual body parts. TODO: explain
+  - Sentence classifications. TODO: explain
+  - Dictionary/index items. TODO: explain
+  - Knowledge cells. TODO: explain
+  - Thought models. TODO: explain
 
 ### Grouping of words
 - Once texts and relations between them are verified, the next step is to group the texts. Every grouping of texts are a result of probabilistic calculation.
