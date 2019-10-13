@@ -2,7 +2,7 @@
 Text Automated Learning by Experience &amp; Empathy
 
 ## Motivation
-Automated text learning we are doing with current NLP techniques are learning based on text occurrence statistics. This way to analyze text using current NLP techniques a lot of data is needed. This does not actually reflect how humans learn languages. Humans learn languages based on small sets of repeating texts that are then processed to create meaning. The learning processes of humans start by associating words with sensors in their body parts.
+Currently existing automated text learning with current Natural Language Processing(NLP) techniques in the field of Artificial Intelligence are learning based on text occurrence statistics. This way of analyzing text, needs a lot of high quality data. This does not actually reflect how humans learn languages. Humans learn languages based on small sets of repeating texts that are then processed to create meaning. The learning processes of humans start by associating words with sensors in their body parts and changes in their environment.
 
 The purpose of Talee is to learn languages using the approach that humans have. This means that Talee will need a virtual body with virtual sensors on different body parts, that will be used to associate applicable words with. 
 
@@ -28,6 +28,7 @@ As for empathy, it means that during understanding process of texts, there shoul
   - Dictionary/index items. TODO: explain
   - Knowledge cells. TODO: explain
   - Thought models. TODO: explain
+- Talee will register 2 kinds of meaning. The first one is word/concept meaning and the other one is "in the context" meaning.
 
 ### Grouping of words
 - Once texts and relations between them are verified, the next step is to group the texts. Every grouping of texts are a result of probabilistic calculation.
