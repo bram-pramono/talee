@@ -11,36 +11,24 @@ In the process of creating meaning 2 things play a big role. The one is experien
 As for empathy, it means that during understanding process of texts, there should be connection made between the texts and body parts whenever possible.
 
 ## Theories
-### Basics of words creations
+### Basics of words creations in human mind
 - Texts are representations of our perceptions based on what the sensors in our body received of the things happening to our body.
 - Every sensors in our body register different things at different time. These registrations of different sensors will eventually build events. Events will eventually become words or part of words that we use in our daily conversations.
 - Along with the sensors that our body register, there are other things around those sensors that need to be taken into account on every event registrations, which are the changes within a certain time and space.
 - The choices of words humans have at the beginning of their life are limited based on what their parents(or guardians) use. These choices of words eventually grow once they learn new things or meet new people. The new texts they learned are done by using words that are known and learned before.
-- All texts that human learned are checked and verified with other humans. Every texts and the relations between texts are tested and verified before they become the truth.
-
-### Meaning in words
-- All words that are used in sentences bring meanings behind the words. These meanings are depended on the perspective of the receiver and the sender at the time the words are passed on and also the meanings are often abstract.
-- To be able to decipher these meanings and reduce the abstract complexity level, some building blocks will be used: 
-  - Event parts in sentences. TODO: explain
-  - Event part subgroups. TODO: explain
-  - Virtual body parts. TODO: explain
-  - Sentence classifications. TODO: explain
-  - Dictionary/index items. TODO: explain
-  - Knowledge cells. TODO: explain
-  - Thought models. TODO: explain
-- Talee will register 2 kinds of meaning. The first one is word/concept meaning and the other one is "in the context" meaning.
+- All texts that human learned are checked and verified with other humans. Every texts and the relations between texts are tested and verified before they become the trusted truth.
 
 ### Grouping of words
 - Once texts and relations between them are verified, the next step is to group the texts. Every grouping of texts are a result of probabilistic calculation.
 - The meaning of a word in texts are determined by the surrounding words. The meaning also occurs once some contexts have been created. Without the contexts, the word is merely an indication of meaning probabilities.
-- To build contexts humans use temporary models in their mind that keep changing until they are verified in conversations.
+- To build contexts humans use temporary models in their mind that keep changing until they are verified in conversations. In Talee this temporary models are called thought models.
 - Every word in texts will eventually be categorized. To be able to apply the categories, Talee needs to be "taught" what are the words categories in different sentences and conversations.
-- In Talee temporary models are called thought models. And to simulate conversations, Talee uses sessions. In every session, there are sentences which will be called inputs.
 
 ## Approach
 As humans, there are multiple simultaneous sensors registrations in every event that happen. Since Talee is a text automated learning, it has only a single registration, which is the texts. The relations of texts to the virtual body parts will need to be created partly manually. Hopefully after an advance Talee bot has been created, it can learn more words that are connected to different body parts by itself.
 
 Before relations between texts and body parts can be made, Talee needs to have enough texts understandings. These texts understanding will be extracted through a simulated learning process.
+TODO: describe the high level approach of session & inputs
 
 ### Simulating learning process
 - At the starting point of the learning process for Talee, Talee needs to process simple inputs.
@@ -64,4 +52,17 @@ Talee should be able to :
 Abilities that Talee might need to help discover meaning are:
 - Pattern recognition. How sentences form, how questions form, What is quote, etc. Examples: Einstein said that "Time is relative", What do you mean shit happens?, He just went to shop, etc.
 - Similar word discovery. Some words are only syntactically different, but means the same. This is similar to lemmatization or stemming, but Talee will solve this through own mapping of words/terms with probabilistic calculation.
+ 
+ 
+## Ideas in progress
+- All words that are used in sentences bring meanings behind the words. These meanings are depended on the perspective of the receiver and the sender at the time the words are passed on and also the meanings are often abstract.
+- To be able to decipher these meanings and reduce the abstract complexity level, some building blocks will be used: 
+  - Event parts in sentences. TODO: explain
+  - Event part subgroups. TODO: explain
+  - Virtual body parts. TODO: explain
+  - Sentence classifications. TODO: explain
+  - Dictionary/index items. TODO: explain
+  - Knowledge cells. TODO: explain
+  - Thought models. TODO: explain
+- Talee will register 2 kinds of meaning. The first one is word/concept meaning and the other one is "in the context" meaning.
  
