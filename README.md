@@ -28,6 +28,20 @@ As humans, there are multiple simultaneous sensors registrations in every event 
 Before relations between texts and body parts can be made, Talee needs to have enough texts understandings. These texts understanding will be extracted through a simulated learning process.
 TODO: describe the high level approach of session & inputs. Note 29-12-2021: I don't remember what I meant by this TODO. However, I think that text understanding can be seen as to know or obtain the language structure used in communication between different people.
 
+### Goals
+Talee should be able to :
+1. identify common words / terms in a language.
+2. identify domain specific words / terms in a language and manually taught domains. (Or maybe using text clustering to determine / discover domains)
+3. group words in sentences. (Identify entity, verbs, adjectives, place, time, etc)
+4. relate words with body parts
+5. create thought models during a conversation / session.
+6. build meaning model by context. Build contexts by words used during a session.
+7. summarize conversations / sessions.
+
+Abilities that Talee might need to help discover meaning are:
+- Pattern recognition. How sentences form, how questions form, What is a quote, etc. Examples: Einstein said that "Time is relative"; What do you mean shit happens?; He just went to shop; etc.
+- Similar word discovery. Some words are only syntactically different, but means the same. This is similar to lemmatization or stemming, but Talee will solve this through own mapping of words / terms with pattern scores.
+
 ### Simulating learning process
 - At the starting point of the learning process for Talee, Talee needs to process simple inputs.
 - While Talee does not have so many words understanding (pattern scores), it needs to start register different words and the relations between them.
@@ -37,20 +51,9 @@ TODO: describe the high level approach of session & inputs. Note 29-12-2021: I d
 - After the verification step, these words/terms will be rules / beliefs. In any case that the surroundings of these words / terms mismatch, it will create bias possibilities.
 - Bias possibilities need to be clarified.  
 
-## Goals
-Talee should be able to :
-- identify common words / terms in a language.
-- identify domain specific words / terms in a language and manually taught domains. (Or maybe using text clustering to determine / discover domains)
-- group words in sentences. (Identify entity, verbs, adjectives, place, time, etc)
-- relate words with body parts
-- create thought models during a conversation / session.
-- build meaning model by context. Build contexts by words used during a session.
-- summarize conversations / sessions.
-
-Abilities that Talee might need to help discover meaning are:
-- Pattern recognition. How sentences form, how questions form, What is a quote, etc. Examples: Einstein said that "Time is relative"; What do you mean shit happens?; He just went to shop; etc.
-- Similar word discovery. Some words are only syntactically different, but means the same. This is similar to lemmatization or stemming, but Talee will solve this through own mapping of words / terms with pattern scores.
- 
+### Evaluation
+- The choice of term meanings (is it the same as constructicons?) should improve after several sessions of learning.
+- The event groups should capture different ambiguous constructions and score them properly based on syntactic commonalities.
  
 ## Ideas in progress
 - All words that are used in sentences bring meanings behind the words. These meanings are depended on the perspective of the receiver and the sender at the time the words are passed on and also the meanings are often abstract.
