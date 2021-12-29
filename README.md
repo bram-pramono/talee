@@ -2,21 +2,19 @@
 Text Automated Learning by Experience &amp; Empathy
 
 ## Motivation
-Currently existing automated text learning with current Natural Language Processing(NLP) techniques in the field of Artificial Intelligence are learning based on text occurrence statistics. This way of analyzing text, needs a lot of high quality data. This does not actually reflect how humans learn languages. Humans learn languages based on small sets of repeating texts that are then processed to create meaning. The learning processes of humans start by associating words with sensors in their body parts and changes in their environment.
+Currently existing automated text learning with current Natural Language Processing(NLP) techniques in the field of Artificial Intelligence are learning based on text occurrence statistics. TODO: missing citation. This way of analyzing text, needs a lot of high quality data. This does not actually reflect how humans learn languages. Humans learn languages based on small sets of repeating texts that are then processed to create meaning. TODO: missing citation. The learning processes of humans start by associating words with sensors in their body parts and changes in their environment. TODO: missing citation.
 
 The purpose of Talee is to learn languages using the approach that humans have. This means that Talee will need a virtual body with virtual sensors on different body parts, that will be used to associate applicable words with. 
 
-In the process of creating meaning 2 things play a big role. The one is experience and the other is empathy. The meaning of experience here is not the body experience, but rather that every text that was learned will help with the analysis of new texts to process. It also means that the meaning of learned texts can change when it gained new insights. 
+I believe that in the process of creating meaning two things play a big role, namely experience and empathy. The meaning of experience here is not the body experience, but rather that every text that was learned will help with the analysis of new texts to process. It also means that the meaning of learned texts can change when it gained new insights. As for empathy, it means that during understanding process of texts, there should be connections made between the texts and body parts whenever possible.
 
-As for empathy, it means that during understanding process of texts, there should be connection made between the texts and body parts whenever possible.
-
-## Theories
+## Ideas on different parts of language learning
 ### Basics of words creations in human mind
-- Texts are representations of our perceptions based on what the sensors in our body received of the things happening to our body.
-- Every sensors in our body register different things at different time. These registrations of different sensors will eventually build events. Events will eventually become words or part of words that we use in our daily conversations.
+- Texts are representations of our perceptions based on what the sensors in our body received after processing different things that happened to our body.
+- Every sensor in our body register different things at different time. These registrations of different sensors will eventually build events. Events can eventually be expressed as words or part of words that we use in our daily conversations. This process of event perceptions to become words are a long process that require agreements with other people (agents) around us. Not all events our body perceived can be translated into specific words. If the events cannot be understood by others, it becomes difficult to make agreements of words to use. In a sense, word creation is a sharing and aligning ideas between agents that requires a common basic cognitive function. I believe this basic cognitive function is *comparison*. 
 - Along with the sensors that our body register, there are other things around those sensors that need to be taken into account on every event registrations, which are the changes within a certain time and space.
-- The choices of words humans have at the beginning of their life are limited based on what their parents(or guardians) use. These choices of words eventually grow once they learn new things or meet new people. The new texts they learned are done by using words that are known and learned before.
-- All texts that human learned are checked and verified with other humans. Every texts and the relations between texts are tested and verified before they become the trusted truth.
+- The choices of words humans have at the beginning of their life are limited based on what their parents(or guardians / caretakers) use (Hilpert, 2019, p. 159). These choices of words might eventually evolve when they learn new things outside the environment they grew up or meet new people. The evolution / growth of these words choices will need the support of words that are known and learned before. This means that people learn only some new words in different context while still reusing a lot of existing words to maintain the structures of meaning. TODO: missing citation. With this idea in the back of our mind, the questions are then: which structures are necessary for us to learn new words? what can be considered as a structure of meaning for texts?
+- All texts that human learned are checked and verified with other humans. Every text and the relations between texts are tested and verified before they become the trusted truth. TODO: missing citation.
 
 ### Grouping of words
 - Once texts and relations between them are verified, the next step is to group the texts. Every grouping of texts are a result of probabilistic calculation.
@@ -66,3 +64,6 @@ Abilities that Talee might need to help discover meaning are:
   - Thought models. TODO: explain
 - Talee will register 2 kinds of meaning. The first one is word/concept meaning and the other one is "in the context" meaning.
  
+# References
+
+Hilpert, M. (2019). Construction Grammar and its Application to English (2nd ed.). Edinburgh University Press. https://www.jstor.org/stable/10.3366/j.ctvsf1p6c
